@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;     // This line enables use of uGUI features.        // a
 
-public class HighScore : MonoBehaviour
+public class Basket : MonoBehaviour
 {
     [Header("Set Dynamically")]
     public Text scoreGT;                                          // a

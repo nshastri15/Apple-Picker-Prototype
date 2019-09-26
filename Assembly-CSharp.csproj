@@ -64,6 +64,7 @@
     <Compile Include="Assets\ApplePicker.cs" />
     <Compile Include="Assets\AppleTree.cs" />
     <Compile Include="Assets\Basket.cs" />
+    <Compile Include="Assets\HighScore.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/nishantshastri/Documents/GitHub/Apple Picker Prototype/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
